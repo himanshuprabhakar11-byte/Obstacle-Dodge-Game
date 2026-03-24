@@ -126,4 +126,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FlyAtPlayer
   player: {fileID: 0}
-  Speed: 10
+  Speed: 30
